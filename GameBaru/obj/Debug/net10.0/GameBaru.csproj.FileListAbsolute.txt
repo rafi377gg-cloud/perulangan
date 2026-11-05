@@ -1,0 +1,14 @@
+C:\Users\ASUS\Documents\nakbar3\INFORMATIKA\PA ISTAQIM\while\GameBaru\bin\Debug\net10.0\GameBaru.exe
+C:\Users\ASUS\Documents\nakbar3\INFORMATIKA\PA ISTAQIM\while\GameBaru\bin\Debug\net10.0\GameBaru.deps.json
+C:\Users\ASUS\Documents\nakbar3\INFORMATIKA\PA ISTAQIM\while\GameBaru\bin\Debug\net10.0\GameBaru.runtimeconfig.json
+C:\Users\ASUS\Documents\nakbar3\INFORMATIKA\PA ISTAQIM\while\GameBaru\bin\Debug\net10.0\GameBaru.dll
+C:\Users\ASUS\Documents\nakbar3\INFORMATIKA\PA ISTAQIM\while\GameBaru\bin\Debug\net10.0\GameBaru.pdb
+C:\Users\ASUS\Documents\nakbar3\INFORMATIKA\PA ISTAQIM\while\GameBaru\obj\Debug\net10.0\GameBaru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\nakbar3\INFORMATIKA\PA ISTAQIM\while\GameBaru\obj\Debug\net10.0\GameBaru.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\nakbar3\INFORMATIKA\PA ISTAQIM\while\GameBaru\obj\Debug\net10.0\GameBaru.AssemblyInfo.cs
+C:\Users\ASUS\Documents\nakbar3\INFORMATIKA\PA ISTAQIM\while\GameBaru\obj\Debug\net10.0\GameBaru.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\nakbar3\INFORMATIKA\PA ISTAQIM\while\GameBaru\obj\Debug\net10.0\GameBaru.dll
+C:\Users\ASUS\Documents\nakbar3\INFORMATIKA\PA ISTAQIM\while\GameBaru\obj\Debug\net10.0\refint\GameBaru.dll
+C:\Users\ASUS\Documents\nakbar3\INFORMATIKA\PA ISTAQIM\while\GameBaru\obj\Debug\net10.0\GameBaru.pdb
+C:\Users\ASUS\Documents\nakbar3\INFORMATIKA\PA ISTAQIM\while\GameBaru\obj\Debug\net10.0\GameBaru.genruntimeconfig.cache
+C:\Users\ASUS\Documents\nakbar3\INFORMATIKA\PA ISTAQIM\while\GameBaru\obj\Debug\net10.0\ref\GameBaru.dll
